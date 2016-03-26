@@ -35,6 +35,7 @@
     <module>org.openhab.persistence.jdbc</module>
     <module>org.openhab.persistence.mapdb</module>
     <module>org.openhab.persistence.sitewhere</module>
+	<module>org.openhab.persistence.emoncms</module>
   </modules>
 
 </project>
